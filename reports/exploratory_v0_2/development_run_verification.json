@@ -1,0 +1,28 @@
+{
+  "checked_at_utc": "2026-10-19T18:55:58.283730+00:00",
+  "status": "passed",
+  "run_directory": "runs/development_20261019T184942Z_e2b5c34c",
+  "approved_counts": {
+    "accepted": 90
+  },
+  "outputs_by_method": {
+    "fixed": 20,
+    "rag": 60,
+    "direct": 60
+  },
+  "model_calls": 120,
+  "failures": 0,
+  "development_scenarios": 20,
+  "validation_scenarios_run": 0,
+  "test_scenarios_run": 0,
+  "current_approvals_and_source_hashes_verified": true,
+  "actual_requests_match_allowlisted_preparation": true,
+  "same_model_and_sampler_for_rag_direct": true,
+  "native_think_false_verified": true,
+  "repository_configuration_unchanged": true,
+  "all_saved_artifact_hashes_verified": true,
+  "prompt_budget_observation_max": 565,
+  "prompt_budgets_verified": true,
+  "quality_scores_assigned": false,
+  "independent_second_review": false
+}

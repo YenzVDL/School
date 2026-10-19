@@ -1,0 +1,36 @@
+{
+  "schema_version": "0.1",
+  "structural_checks": "passed",
+  "errors": [],
+  "flags": [
+    {
+      "record_id": "S04",
+      "kind": "missing_progress",
+      "action": "intentional missingness; do not impute difficulty"
+    },
+    {
+      "record_id": "S05",
+      "kind": "contradictory_progress",
+      "action": "intentional challenge; verify against review notes"
+    }
+  ],
+  "counts": {
+    "scenarios": 10,
+    "questions": 10,
+    "splits": {
+      "development": 6,
+      "test": 4
+    }
+  },
+  "presidio": {
+    "status": "not_run",
+    "reason": "Optional Presidio scan not requested; regex screening is not a PII audit."
+  },
+  "human_review": "pending",
+  "safety_or_pedagogical_certification": false,
+  "input_sha256": {
+    "scenarios.jsonl": "ffa94b763a8adcaea47e9be7899b8f93ba9427307e36e9f70815aab9dd7e79b9",
+    "question_bank.jsonl": "d1adc6aebb52c539481433042a38a327026df0459606bc9b9ffc91c3096a71f8",
+    "evaluation_notes.jsonl": "2327a626ff12101d11926f7a369ac45ae97cf2e6d8b5330f48344318aada0a4d"
+  }
+}

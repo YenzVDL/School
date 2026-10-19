@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-10-19",
+  "test_count": 19,
+  "test_status": "passed",
+  "review_date": "2026-10-19",
+  "reviewer_code": null,
+  "criterion_scores": "unconfirmed",
+  "proposal_counts": {
+    "revise": 8,
+    "accept": 12
+  },
+  "revision_drafts": 8,
+  "canonical_records_unchanged_from_raw": true,
+  "completed_decisions": 0,
+  "pending_records": 20,
+  "exported_scenarios": 0,
+  "exported_questions": 0,
+  "raw_integrity": "passed",
+  "structural_validation": "passed",
+  "privacy_regex": "no_pattern_matches",
+  "presidio": "not_run",
+  "input_sha256": {
+    "data/pilot_v0_1/scenarios.jsonl": "ffa94b763a8adcaea47e9be7899b8f93ba9427307e36e9f70815aab9dd7e79b9",
+    "data/pilot_v0_1/question_bank.jsonl": "d1adc6aebb52c539481433042a38a327026df0459606bc9b9ffc91c3096a71f8",
+    "data/pilot_v0_1/evaluation_notes.jsonl": "2327a626ff12101d11926f7a369ac45ae97cf2e6d8b5330f48344318aada0a4d",
+    "data/reviews/requests.jsonl": "7e966540348f8accd2c5d2a1043f714c697b3660203ffc990feb8e3a5c9f7bd0",
+    "data/reviews/decisions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "review_evidence_sha256": {
+    "data/reviews/proposals.jsonl": "3cf6ffeffbd90c2a1eff46c5386cd6d54534d63c93a9eb7f4f009ab5409b0646",
+    "data/reviews/revision_proposals.jsonl": "bd2e87b2cd6f6c82dd4ac9ea8705109b0c8a6329c992b73aaa280c926e81f33c"
+  },
+  "workflow_sha256": "efe634f8a4897bb95048fc32835dd58d98d94853770ca6cf40afb14667dedec8",
+  "user_instruction": "Keep the review as proposals; do not infer six pass ratings.",
+  "limitations": "No proposals were promoted to completed decisions. Draft wording is assistant-authored and requires re-review. No inference or external processing occurred."
+}

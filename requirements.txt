@@ -1,0 +1,2 @@
+# Runtime and tests use only the Python standard library (Python >= 3.10).
+# No pip install is needed. Optional privacy tools are deliberately not dependencies.

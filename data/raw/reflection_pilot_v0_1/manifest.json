@@ -1,0 +1,16 @@
+{
+  "snapshot_version": "reflection_pilot_v0_1",
+  "archive_sha256": "08a7cba88af8314dc62bf214826cd3161cd950703b78a8a7b54766e4b1f1549d",
+  "files_sha256": {
+    "reflection_pilot_v0_1/README.md": "9ff57595fc1804dac5cc3ea30bcb89d0842de97a18d797c3a035ab01574a75ad",
+    "reflection_pilot_v0_1/SCENARIOS.md": "24b8053c8cb19c725cb2b359b7092b7eb15f016b92bdff64488bf048de280f43",
+    "reflection_pilot_v0_1/build_pilot.py": "dc1a573a6ab5bc73f26518cb202edc2cd9ccb25b5313149df39a48447446d18d",
+    "reflection_pilot_v0_1/evaluation_notes.jsonl": "2327a626ff12101d11926f7a369ac45ae97cf2e6d8b5330f48344318aada0a4d",
+    "reflection_pilot_v0_1/human_review_log.jsonl": "7e966540348f8accd2c5d2a1043f714c697b3660203ffc990feb8e3a5c9f7bd0",
+    "reflection_pilot_v0_1/model_inputs.jsonl": "6fbea68724baea11d46df41fc14dc7ccc1dd1baef978ccc78d5f29490bfa7c87",
+    "reflection_pilot_v0_1/question_bank.jsonl": "d1adc6aebb52c539481433042a38a327026df0459606bc9b9ffc91c3096a71f8",
+    "reflection_pilot_v0_1/scenarios.jsonl": "ffa94b763a8adcaea47e9be7899b8f93ba9427307e36e9f70815aab9dd7e79b9",
+    "reflection_pilot_v0_1/validate.py": "40c668476ce0eb59ef9f5f209d5ae95eeab5db47045a96022923e5faf1664929",
+    "reflection_pilot_v0_1/validation_report.json": "086822a58ee1315af3531978b13392adba21e753d6175c851e2a1f1158cc0808"
+  }
+}

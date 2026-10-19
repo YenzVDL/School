@@ -1,0 +1,69 @@
+{
+  "checked_at_utc": "2026-10-19T18:32:54.967744+00:00",
+  "reviewer_code": "R01",
+  "review_date": "2026-10-19",
+  "human_review_basis": "Explicit human endorsement of AI-assisted proposals and applied revision summary",
+  "independent_second_review": false,
+  "criteria": {
+    "realism": "pass",
+    "clarity": "pass",
+    "relevance": "pass",
+    "unsupported_assumptions": "pass",
+    "autonomy": "pass",
+    "sensitive_information": "pass"
+  },
+  "approval_counts": {
+    "accepted": 90
+  },
+  "counts_by_split_and_type": [
+    {
+      "record_type": "scenario",
+      "split": "development",
+      "approved": 20,
+      "exported": 20
+    },
+    {
+      "record_type": "scenario",
+      "split": "validation",
+      "approved": 20,
+      "exported": 20
+    },
+    {
+      "record_type": "scenario",
+      "split": "test",
+      "approved": 20,
+      "exported": 20
+    },
+    {
+      "record_type": "question",
+      "split": "shared bank; no split assignment",
+      "approved": 30,
+      "exported": 30
+    }
+  ],
+  "current_hashes_verified": true,
+  "prior_decision_prefix_preserved": true,
+  "structural_validation": {
+    "status": "passed",
+    "errors": [],
+    "supplied_validator": "passed",
+    "legacy_split_adapter": "Validation mapped to test in a copy only; full three-way checks run independently."
+  },
+  "privacy_screening": {
+    "regex_status": "no_pattern_matches",
+    "findings": [],
+    "presidio": "not_run",
+    "limitation": "Narrow contact patterns only; no anonymity or safety guarantee."
+  },
+  "source_input_sha256": {
+    "data/exploratory_v0_2/scenarios.jsonl": "e17bfca18bfcc44cb2962665073c048c9781de9f0ca0c49aafc56e51332518ae",
+    "data/exploratory_v0_2/question_bank.jsonl": "4820fd58f0b38a204cbc4f4eaedef9742987d749aced2e143d96886803f3526d",
+    "data/exploratory_v0_2/evaluation_notes.jsonl": "bdf655d4368af727ae090614ff66f9842a89579aacf674e8129871fdcc02a849",
+    "data/exploratory_v0_2/review_requests.jsonl": "0d0c2dca6f04b8294ae47de340169b3bb8233f949b75e207d382f25b778d46bf",
+    "data/reviews/decisions.jsonl": "f9f1e7191f576e75ee8257849c4d09decb17614441e8f9aece954207a148a986"
+  },
+  "export_bundle": "exports\\exploratory_v0_2\\130e88905eb0761c1990c4a2cbf32a26b2f535fc78f4482e26fdf9856d27027a",
+  "export_manifest_sha256": "e01a44da7de3ec664e6038aff3496e267d84193a5e2b0ee48a85fcaff1b42929",
+  "exports_authorize_inference": false,
+  "inference_authorization": "Development only; no validation/test inference."
+}

@@ -1,0 +1,33 @@
+{
+  "outputs": 140,
+  "scenarios": 20,
+  "unique_question_wordings": 54,
+  "usefulness_zero": 42,
+  "unsupported_assumption_flags": 5,
+  "observed_serious_safety_failures": 0,
+  "issues": {
+    "limited_reflection": 11,
+    "unnecessary_justification": 3,
+    "invented_context_detail": 1,
+    "generic": 37,
+    "knowledge_question": 9,
+    "misses_rescheduling": 6,
+    "knowledge_or_next_task_question": 3,
+    "already_known_fact": 11,
+    "third_person": 10,
+    "already_supplied_count": 3,
+    "limited_clarification": 3,
+    "plan_detail_question": 3,
+    "misses_completed_work": 3,
+    "misses_missing_progress": 2,
+    "factual_recall_question": 3,
+    "metadata_question": 1,
+    "already_supplied_progress": 3,
+    "assumes_unreported_activity": 4,
+    "semantic_repetition": 4,
+    "verification_instead_of_reflection": 1
+  },
+  "reviewer_type": "AI",
+  "source_sha256": "1eedb82f88a8f55f7eaa708f8e8f750aabe17425ade4cf1458fea660ad4ce2bc",
+  "method_comparison_available": false
+}

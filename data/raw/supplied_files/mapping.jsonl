@@ -1,0 +1,9 @@
+{"matching_archive_entry": "reflection_pilot_v0_1/SCENARIOS.md", "sha256": "24b8053c8cb19c725cb2b359b7092b7eb15f016b92bdff64488bf048de280f43", "supplied_filename": "build_pilot (1).py"}
+{"matching_archive_entry": "reflection_pilot_v0_1/build_pilot.py", "sha256": "dc1a573a6ab5bc73f26518cb202edc2cd9ccb25b5313149df39a48447446d18d", "supplied_filename": "evaluation_notes (1).jsonl"}
+{"matching_archive_entry": "reflection_pilot_v0_1/evaluation_notes.jsonl", "sha256": "2327a626ff12101d11926f7a369ac45ae97cf2e6d8b5330f48344318aada0a4d", "supplied_filename": "human_review_log (1).jsonl"}
+{"matching_archive_entry": "reflection_pilot_v0_1/human_review_log.jsonl", "sha256": "7e966540348f8accd2c5d2a1043f714c697b3660203ffc990feb8e3a5c9f7bd0", "supplied_filename": "model_inputs (1).jsonl"}
+{"matching_archive_entry": "reflection_pilot_v0_1/model_inputs.jsonl", "sha256": "6fbea68724baea11d46df41fc14dc7ccc1dd1baef978ccc78d5f29490bfa7c87", "supplied_filename": "question_bank (1).jsonl"}
+{"matching_archive_entry": "reflection_pilot_v0_1/question_bank.jsonl", "sha256": "d1adc6aebb52c539481433042a38a327026df0459606bc9b9ffc91c3096a71f8", "supplied_filename": "scenarios (1).jsonl"}
+{"matching_archive_entry": "reflection_pilot_v0_1/README.md", "sha256": "9ff57595fc1804dac5cc3ea30bcb89d0842de97a18d797c3a035ab01574a75ad", "supplied_filename": "SCENARIOS (1).md"}
+{"matching_archive_entry": "reflection_pilot_v0_1/scenarios.jsonl", "sha256": "ffa94b763a8adcaea47e9be7899b8f93ba9427307e36e9f70815aab9dd7e79b9", "supplied_filename": "validate (1).py"}
+{"matching_archive_entry": "reflection_pilot_v0_1/validate.py", "sha256": "40c668476ce0eb59ef9f5f209d5ae95eeab5db47045a96022923e5faf1664929", "supplied_filename": "validation_report (1).json"}

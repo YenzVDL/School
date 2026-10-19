@@ -1,0 +1,77 @@
+{
+  "dataset_version": "exploratory_v0_2",
+  "authored_on": "2026-10-19",
+  "author": "ChatGPT/Codex assistant; this is AI authorship, not independent human review.",
+  "exact_model_and_decoding": "Not exposed; not invented.",
+  "method": "50 explicitly authored, varied fictional records and 20 new bank questions, deterministically serialized. Ten revised pilot records copied; all pilot families assigned development. No source student dataset or inference endpoint used.",
+  "synthetic": true,
+  "human_approval": "pending for all 90 records",
+  "scenario_count": 60,
+  "question_count": 30,
+  "split_rule": "Explicit family assignments; 20 per split, two examples of each category per split. Related variants share families.",
+  "related_families": {
+    "development": [
+      "F01",
+      "F02"
+    ],
+    "validation": [
+      "F21",
+      "F22"
+    ],
+    "test": [
+      "F41",
+      "F42"
+    ]
+  },
+  "pilot_changes": {
+    "S07-S10": "Moved from provisional test to development because used in authoring/revisions.",
+    "Q04-Q05": "Applicability explicitly limits clarification to the provisional research pilot."
+  },
+  "test_status": "Candidate test only; not frozen, not independently unseen. Authoring assistant has seen all cases.",
+  "limitations": [
+    "Purposeful small synthetic sample; counts are exploratory, not justified statistically.",
+    "Family assignments and wording-diversity claims require human inspection; heuristic duplicate screening is incomplete.",
+    "Illustrative questions are optional examples, never mandatory expected sentences or retrieval content.",
+    "No claims about real student usefulness, fairness, learning effects or compliance."
+  ],
+  "preserved_source_sha256": {
+    "data\\pilot_v0_1\\evaluation_notes.jsonl": "c5e7f23c4e3fee12f7e4c93a74b12b78578ee1d80e43d6aff9be0cf6f1eecd72",
+    "data\\pilot_v0_1\\question_bank.jsonl": "a24fd0000ca474a676df614d0b5ea83f385aec325232d56a7013b3c35e1a6418",
+    "data\\pilot_v0_1\\scenarios.jsonl": "0a1a6fbc403572bcffa31e12b7f57be40c4183906903c7ba17b843df9d160a83",
+    "data\\reviews\\decisions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data\\reviews\\proposals.jsonl": "3cf6ffeffbd90c2a1eff46c5386cd6d54534d63c93a9eb7f4f009ab5409b0646",
+    "data\\reviews\\requests.jsonl": "7e966540348f8accd2c5d2a1043f714c697b3660203ffc990feb8e3a5c9f7bd0",
+    "data\\reviews\\revision_applications.jsonl": "57b2fbac1c6627fabeeb3377bcd81448cc01c57c74e82a304031eff1978691f4",
+    "data\\reviews\\revision_proposals.jsonl": "2972743ba0e7728b0b51f40d89f60996e297bc03157bccbb078eeb9d77d49bf5",
+    "data\\reviews\\history\\review_before_revision_application_2026-10-19.md": "367f19b0d4a458efa8ec9eb4bb7d3691884b944f8fcd3d54fd38d2fd562084a5",
+    "data\\reviews\\history\\revision_proposals_before_s02_correction_2026-10-19.jsonl": "bd2e87b2cd6f6c82dd4ac9ea8705109b0c8a6329c992b73aaa280c926e81f33c",
+    "data\\raw\\reflection_pilot_v0_1\\manifest.json": "4c92a4cfb83cfbf519a151ad182529b727b512fe38cdcebb5eddccc5442c7c34",
+    "data\\raw\\reflection_pilot_v0_1\\Reflection_Question_Pilot_v0_1.zip": "08a7cba88af8314dc62bf214826cd3161cd950703b78a8a7b54766e4b1f1549d",
+    "data\\raw\\supplied_files\\build_pilot (1).py": "24b8053c8cb19c725cb2b359b7092b7eb15f016b92bdff64488bf048de280f43",
+    "data\\raw\\supplied_files\\evaluation_notes (1).jsonl": "dc1a573a6ab5bc73f26518cb202edc2cd9ccb25b5313149df39a48447446d18d",
+    "data\\raw\\supplied_files\\human_review_log (1).jsonl": "2327a626ff12101d11926f7a369ac45ae97cf2e6d8b5330f48344318aada0a4d",
+    "data\\raw\\supplied_files\\mapping.jsonl": "8e97d190a82979e71883afdd622466a778a957af6c4d7b1eb589f65080ab78b6",
+    "data\\raw\\supplied_files\\model_inputs (1).jsonl": "7e966540348f8accd2c5d2a1043f714c697b3660203ffc990feb8e3a5c9f7bd0",
+    "data\\raw\\supplied_files\\question_bank (1).jsonl": "6fbea68724baea11d46df41fc14dc7ccc1dd1baef978ccc78d5f29490bfa7c87",
+    "data\\raw\\supplied_files\\scenarios (1).jsonl": "d1adc6aebb52c539481433042a38a327026df0459606bc9b9ffc91c3096a71f8",
+    "data\\raw\\supplied_files\\SCENARIOS (1).md": "9ff57595fc1804dac5cc3ea30bcb89d0842de97a18d797c3a035ab01574a75ad",
+    "data\\raw\\supplied_files\\validate (1).py": "ffa94b763a8adcaea47e9be7899b8f93ba9427307e36e9f70815aab9dd7e79b9",
+    "data\\raw\\supplied_files\\validation_report (1).json": "40c668476ce0eb59ef9f5f209d5ae95eeab5db47045a96022923e5faf1664929",
+    "data\\raw\\reflection_pilot_v0_1\\package\\reflection_pilot_v0_1\\build_pilot.py": "dc1a573a6ab5bc73f26518cb202edc2cd9ccb25b5313149df39a48447446d18d",
+    "data\\raw\\reflection_pilot_v0_1\\package\\reflection_pilot_v0_1\\evaluation_notes.jsonl": "2327a626ff12101d11926f7a369ac45ae97cf2e6d8b5330f48344318aada0a4d",
+    "data\\raw\\reflection_pilot_v0_1\\package\\reflection_pilot_v0_1\\human_review_log.jsonl": "7e966540348f8accd2c5d2a1043f714c697b3660203ffc990feb8e3a5c9f7bd0",
+    "data\\raw\\reflection_pilot_v0_1\\package\\reflection_pilot_v0_1\\model_inputs.jsonl": "6fbea68724baea11d46df41fc14dc7ccc1dd1baef978ccc78d5f29490bfa7c87",
+    "data\\raw\\reflection_pilot_v0_1\\package\\reflection_pilot_v0_1\\question_bank.jsonl": "d1adc6aebb52c539481433042a38a327026df0459606bc9b9ffc91c3096a71f8",
+    "data\\raw\\reflection_pilot_v0_1\\package\\reflection_pilot_v0_1\\README.md": "9ff57595fc1804dac5cc3ea30bcb89d0842de97a18d797c3a035ab01574a75ad",
+    "data\\raw\\reflection_pilot_v0_1\\package\\reflection_pilot_v0_1\\scenarios.jsonl": "ffa94b763a8adcaea47e9be7899b8f93ba9427307e36e9f70815aab9dd7e79b9",
+    "data\\raw\\reflection_pilot_v0_1\\package\\reflection_pilot_v0_1\\SCENARIOS.md": "24b8053c8cb19c725cb2b359b7092b7eb15f016b92bdff64488bf048de280f43",
+    "data\\raw\\reflection_pilot_v0_1\\package\\reflection_pilot_v0_1\\validate.py": "40c668476ce0eb59ef9f5f209d5ae95eeab5db47045a96022923e5faf1664929",
+    "data\\raw\\reflection_pilot_v0_1\\package\\reflection_pilot_v0_1\\validation_report.json": "086822a58ee1315af3531978b13392adba21e753d6175c851e2a1f1158cc0808"
+  },
+  "file_sha256": {
+    "scenarios.jsonl": "899b284b8d42f1f21674432adb729a8aa37a431dfde87ec22dcc9cd78f09495b",
+    "question_bank.jsonl": "608a3844458722874777c1bf01e3e8430f1a3bca545f236961e1bd4eab900efd",
+    "evaluation_notes.jsonl": "c81e5f2fdaa2957dbfa29f249fe4ec62d7ca03e066e94537c815a792aaed2909",
+    "review_requests.jsonl": "0d0c2dca6f04b8294ae47de340169b3bb8233f949b75e207d382f25b778d46bf"
+  }
+}

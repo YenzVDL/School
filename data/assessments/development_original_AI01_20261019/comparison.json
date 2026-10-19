@@ -1,0 +1,187 @@
+{
+  "rating_source": "Supplied AI01 assessments; not independent human ratings.",
+  "aggregation": "Average seed trials within each method/scenario, then average 20 scenario means per method.",
+  "no_combined_quality_safety_score": true,
+  "approaches": {
+    "fixed": {
+      "scenarios": 20,
+      "outputs": 20,
+      "criterion_means": {
+        "specificity": 1,
+        "usefulness": 1.7,
+        "clarity": 2,
+        "non_coerciveness": 2
+      },
+      "issues": {
+        "generic": {
+          "output_count": 4,
+          "scenarios_affected": 4,
+          "mean_within_scenario_rate": 0.2
+        },
+        "semantic_repetition": {
+          "output_count": 1,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.05
+        }
+      },
+      "unsupported_assumptions": {
+        "outputs": 0,
+        "scenarios_affected": 0,
+        "mean_within_scenario_rate": 0
+      },
+      "observed_serious_safety_failures": {
+        "outputs": 0,
+        "scenarios_affected": 0
+      },
+      "usefulness_zero_outputs": 1
+    },
+    "rag": {
+      "scenarios": 20,
+      "outputs": 60,
+      "criterion_means": {
+        "specificity": 1,
+        "usefulness": 1.35,
+        "clarity": 2,
+        "non_coerciveness": 2
+      },
+      "issues": {
+        "generic": {
+          "output_count": 33,
+          "scenarios_affected": 11,
+          "mean_within_scenario_rate": 0.55
+        },
+        "semantic_repetition": {
+          "output_count": 3,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.05
+        }
+      },
+      "unsupported_assumptions": {
+        "outputs": 0,
+        "scenarios_affected": 0,
+        "mean_within_scenario_rate": 0
+      },
+      "observed_serious_safety_failures": {
+        "outputs": 0,
+        "scenarios_affected": 0
+      },
+      "usefulness_zero_outputs": 3
+    },
+    "direct": {
+      "scenarios": 20,
+      "outputs": 60,
+      "criterion_means": {
+        "specificity": 1.95,
+        "usefulness": 0.5,
+        "clarity": 1.8166666666666667,
+        "non_coerciveness": 1.95
+      },
+      "issues": {
+        "already_known_fact": {
+          "output_count": 11,
+          "scenarios_affected": 4,
+          "mean_within_scenario_rate": 0.18333333333333332
+        },
+        "already_supplied_count": {
+          "output_count": 3,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.05
+        },
+        "already_supplied_progress": {
+          "output_count": 3,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.05
+        },
+        "assumes_unreported_activity": {
+          "output_count": 4,
+          "scenarios_affected": 2,
+          "mean_within_scenario_rate": 0.06666666666666667
+        },
+        "factual_recall_question": {
+          "output_count": 3,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.05
+        },
+        "invented_context_detail": {
+          "output_count": 1,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.016666666666666666
+        },
+        "knowledge_or_next_task_question": {
+          "output_count": 3,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.05
+        },
+        "knowledge_question": {
+          "output_count": 9,
+          "scenarios_affected": 4,
+          "mean_within_scenario_rate": 0.15
+        },
+        "limited_clarification": {
+          "output_count": 3,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.05
+        },
+        "limited_reflection": {
+          "output_count": 11,
+          "scenarios_affected": 5,
+          "mean_within_scenario_rate": 0.18333333333333332
+        },
+        "metadata_question": {
+          "output_count": 1,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.016666666666666666
+        },
+        "misses_completed_work": {
+          "output_count": 3,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.05
+        },
+        "misses_missing_progress": {
+          "output_count": 2,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.03333333333333333
+        },
+        "misses_rescheduling": {
+          "output_count": 6,
+          "scenarios_affected": 2,
+          "mean_within_scenario_rate": 0.1
+        },
+        "plan_detail_question": {
+          "output_count": 3,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.05
+        },
+        "third_person": {
+          "output_count": 10,
+          "scenarios_affected": 4,
+          "mean_within_scenario_rate": 0.16666666666666666
+        },
+        "unnecessary_justification": {
+          "output_count": 3,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.05
+        },
+        "verification_instead_of_reflection": {
+          "output_count": 1,
+          "scenarios_affected": 1,
+          "mean_within_scenario_rate": 0.016666666666666666
+        }
+      },
+      "unsupported_assumptions": {
+        "outputs": 5,
+        "scenarios_affected": 3,
+        "mean_within_scenario_rate": 0.08333333333333333
+      },
+      "observed_serious_safety_failures": {
+        "outputs": 0,
+        "scenarios_affected": 0
+      },
+      "usefulness_zero_outputs": 38
+    }
+  },
+  "source_ratings_sha256": "2ac445e51ede67dd994836b8bdced25613f9a936f6e7be796b8037b8af67fea5",
+  "mapping_sha256": "1100c5fb9703c6d97d8c2c7ebb6781f5015738b4a37d57725f60549887662624",
+  "joined_at_utc": "2026-10-19T18:50:28.987945+00:00",
+  "validation_or_test_inference_run": false
+}

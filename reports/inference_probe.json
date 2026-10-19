@@ -1,0 +1,27 @@
+{
+  "probe_kind": "local_setup_only",
+  "external_processing": false,
+  "dataset_records_used": 0,
+  "base_url": "http://127.0.0.1:11435",
+  "model_tag": "llama3.2-vision:11b",
+  "generation_status": "completed",
+  "model_reuse_terms": "Local license layers present; intended-use license assessment remains open.",
+  "runtime_version": "0.11.4",
+  "model_digest": "6f2f9757ae97e8a3f8ea33d6adb2b11d93d9a35bef277cd2c0b1b5af8e8d0b1e",
+  "model_size_bytes": 7816589186,
+  "details": {
+    "parent_model": "",
+    "format": "gguf",
+    "family": "mllama",
+    "families": [
+      "mllama"
+    ],
+    "parameter_size": "10.7B",
+    "quantization_level": "Q4_K_M"
+  },
+  "metadata_status": "reachable_and_cached",
+  "setup_smoke_elapsed_seconds": 17.606,
+  "setup_ready_response": true,
+  "comparison_result": "None; a setup prompt is not a reflection-question experiment.",
+  "probe_status": "completed"
+}

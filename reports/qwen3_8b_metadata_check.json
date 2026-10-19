@@ -1,0 +1,37 @@
+{
+  "model_tag": "qwen3:8b",
+  "checked_at_utc": "2026-10-19T18:09:05.260472+00:00",
+  "runtime_version": "0.11.4",
+  "bundled_executable": "C:\\Users\\inten\\AppData\\Local\\Programs\\AnythingLLM\\resources\\ollama\\llm.exe",
+  "executable_sha256_before": "31f53cfb4f211072952037d225ac5d52eba43e4cf578a4a5b986f6b421e96664",
+  "hardware": {
+    "cpu": "AMD Ryzen 5 3600X 6-Core Processor",
+    "physical_cores": 6,
+    "logical_processors": 12,
+    "ram_bytes": 17121849344,
+    "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+    "gpu_memory_mib": 8192,
+    "nvidia_driver": "617.42"
+  },
+  "research_records_used": 0,
+  "paid_apis_used": false,
+  "research_data_uploaded": false,
+  "runtime_upgrade_performed": false,
+  "thinking_request_value": false,
+  "model_pulled": false,
+  "status": "metadata_ready",
+  "model_digest": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41",
+  "model_size_bytes": 5225388164,
+  "quantization": "Q4_K_M",
+  "parameter_size": "8.2B",
+  "capabilities": [
+    "completion",
+    "tools",
+    "thinking"
+  ],
+  "template_sha256": "ae370d884f108d16e7cc8fd5259ebc5773a0afa6e078b11f4ed7e39a27e0dfc4",
+  "template_has_thinking_control": true,
+  "license_sha256": "d18a5cc71b84bc4af394a31116bd3932b42241de70c77d2b76d69a314ec8aa12",
+  "configuration_matches": true,
+  "executable_sha256_after": "31f53cfb4f211072952037d225ac5d52eba43e4cf578a4a5b986f6b421e96664"
+}
