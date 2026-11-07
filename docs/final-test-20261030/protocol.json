@@ -1,0 +1,44 @@
+{
+  "name": "ICT method comparison 3010 final",
+  "date": "2026-10-30",
+  "purpose": "Compare reflection-question outputs of Fixed Question Bank, RAG and constrained LLM using the same frozen ICT cases and method-blind scripts.",
+  "scenario_count": 36,
+  "bank_question_target": 32,
+  "topics": [
+    "programming and algorithms",
+    "databases and SQL",
+    "web development and APIs",
+    "software testing and Git",
+    "networking and cybersecurity",
+    "software design and requirements"
+  ],
+  "variations": [
+    "completed with understanding",
+    "partial completion",
+    "incorrect control answer",
+    "time deviation",
+    "missing information",
+    "contradictory information"
+  ],
+  "collection_model": "llama3.2:1b",
+  "repetitions": 1,
+  "expected_outputs": 108,
+  "collection_settings": {
+    "temperature": 0.2,
+    "seed": 42,
+    "num_predict": 128,
+    "num_ctx": 4096,
+    "top_p": 0.9,
+    "timeout_seconds": 120,
+    "think": false
+  },
+  "metric_version": "fixed-rubric-v2-method-blind",
+  "metric_implementation_hash": "fe1eeecce0fd839690b7a26a2de6ba58ce70946629aa5247647b0ed1e01e2b00",
+  "metric_rules": {
+    "usefulness": "One nonrepeated question, <=40 words; reflection/learning/approach/planning cue; no listed coercive wording. These are form and wording rules, not measured educational benefit.",
+    "context_fit": "ICT scenario, no unsupported named technology, shared content words with scenario evidence. No lexical anchor is inconclusive. Bank applicability conditions, method and model never affect the score.",
+    "correctness": "Check recognized completion/incorrect-answer claims and named technologies against scenario evidence. Unsupported claims are flags. No recognized, testable claim is inconclusive; lack of a flag does not establish truth."
+  },
+  "review_policy": "Brief assistant-assisted content/structure review before freezing; not independent human validation. Repairs retain version history and are documented. No test-output-driven bank, prompt or metric changes.",
+  "comparison_policy": "Same scenario versions, one repetition, same generator and settings for RAG/LLM. Report failed outputs and inconclusive metrics. No statistical sufficiency or semantic-validation claim."
+}

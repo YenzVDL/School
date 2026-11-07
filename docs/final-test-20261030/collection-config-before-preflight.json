@@ -1,0 +1,28 @@
+{
+  "name": "FINAL ICT 3010 - Fixed vs RAG vs LLM (36 cases, 108 outputs)",
+  "dataset_snapshot_id": "snap_f59d3c88c1ad4465",
+  "bank_snapshot_id": "snap_27d80ef5624f4c9e",
+  "split": "development",
+  "methods": [
+    "fixed",
+    "rag",
+    "constrained"
+  ],
+  "models": [
+    "llama3.2:1b"
+  ],
+  "repetitions": 1,
+  "settings": {
+    "temperature": 0.2,
+    "seed": 42,
+    "num_predict": 128,
+    "num_ctx": 4096,
+    "top_p": 0.9,
+    "timeout_seconds": 120,
+    "think": false
+  },
+  "ai_control": false,
+  "top_k": 3,
+  "order_seed": 42,
+  "hardware_notes": "Existing local machine; same exact installed llama3.2:1b digest for RAG and constrained LLM. Materials assistant-authored and checked before freezing. No AI evaluation."
+}

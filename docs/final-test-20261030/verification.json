@@ -1,0 +1,11 @@
+{
+  "offline_reproduction_exact_match": true,
+  "stored_metric_status": "completed",
+  "script_assessment_id": "script_assessment_3b18fac4a96c4e87",
+  "same_case_sets": true,
+  "common_scenario_versions": 36,
+  "total_cases": 108,
+  "content_assessed": 107,
+  "execution_failures": 1,
+  "ai_evaluation_used": false
+}

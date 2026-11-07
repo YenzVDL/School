@@ -1,0 +1,16 @@
+{
+  "count": 32,
+  "reviewer": "codex-assisted-content-review",
+  "origin": "Assistant-authored; not local-model-generated",
+  "checks": [
+    "One question and <=40 words",
+    "Distinct texts",
+    "ICT reflection rather than technical quiz",
+    "Applicability matches stated assumptions",
+    "Specific priority above neutral fallback"
+  ],
+  "fallback_count": 1,
+  "snapshot_id": "snap_27d80ef5624f4c9e",
+  "initial_snapshot_id": "snap_576c7304c7284922",
+  "priority_review": "bank-priority-review.json"
+}

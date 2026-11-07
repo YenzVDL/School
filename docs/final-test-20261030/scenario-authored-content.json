@@ -1,0 +1,1556 @@
+[
+  {
+    "inputs": {
+      "learning_goal": "Understand Python sorting functions",
+      "planned_activity": "Write and test a Python function that returns a sorted copy of an integer list",
+      "progress": {
+        "description": "Recorded steps in: Write and test a Python function that returns a sorted copy of an integer list",
+        "planned_units": 4.0,
+        "completed_units": 4.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "What does sorted([3, 1, 2]) return?",
+          "student_answer": "[1, 2, 3]",
+          "reference_answer": "[1, 2, 3]",
+          "recorded_assessment": "correct",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "I recorded all four planned steps and wrote the control answer below.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_6d81d522cc154f1e",
+    "family_id": "scenario_6d81d522cc154f1e",
+    "split": "development",
+    "tags": [
+      "programming and algorithms",
+      "completed with understanding"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {
+      "assigned_topic": "programming and algorithms",
+      "assigned_variation": "completed with understanding",
+      "intentional_contradiction": false
+    },
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: completed with understanding. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_d12fae80e6794353",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 2,
+    "parent_id": "sv_4822e857144a4815",
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:07.222164+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand SQL INNER JOIN",
+      "planned_activity": "Join students and courses using SQL and inspect the result rows",
+      "progress": {
+        "description": "Recorded steps in: Join students and courses using SQL and inspect the result rows",
+        "planned_units": 4.0,
+        "completed_units": 4.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "Does an INNER JOIN return a row without a matching join key in the other table?",
+          "student_answer": "No",
+          "reference_answer": "No",
+          "recorded_assessment": "correct",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "I recorded all four planned steps and wrote the control answer below.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_caa4199ecf7f4847",
+    "family_id": "scenario_caa4199ecf7f4847",
+    "split": "development",
+    "tags": [
+      "databases and SQL",
+      "completed with understanding"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {
+      "assigned_topic": "databases and SQL",
+      "assigned_variation": "completed with understanding",
+      "intentional_contradiction": false
+    },
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: completed with understanding. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_d269f9b4fe47493e",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 2,
+    "parent_id": "sv_a894a2ba673348fe",
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:07.414475+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand REST API responses",
+      "planned_activity": "Implement a small REST API endpoint returning JSON and inspect its HTTP response",
+      "progress": {
+        "description": "Recorded steps in: Implement a small REST API endpoint returning JSON and inspect its HTTP response",
+        "planned_units": 4.0,
+        "completed_units": 4.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "What HTTP status normally indicates a successful GET response?",
+          "student_answer": "200",
+          "reference_answer": "200",
+          "recorded_assessment": "correct",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "I recorded all four planned steps and wrote the control answer below.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_b5a17657afc74b15",
+    "family_id": "scenario_b5a17657afc74b15",
+    "split": "development",
+    "tags": [
+      "web development and APIs",
+      "completed with understanding"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {
+      "assigned_topic": "web development and APIs",
+      "assigned_variation": "completed with understanding",
+      "intentional_contradiction": false
+    },
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: completed with understanding. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_27da58b8315c4749",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 2,
+    "parent_id": "sv_2472f7e04f4f4faa",
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:07.529957+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand Python unit testing",
+      "planned_activity": "Write Python unit tests for a function double(x) that returns x * 2",
+      "progress": {
+        "description": "Recorded steps in: Write Python unit tests for a function double(x) that returns x * 2",
+        "planned_units": 4.0,
+        "completed_units": 4.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "What expected value should a unit test use for double(3)?",
+          "student_answer": "6",
+          "reference_answer": "6",
+          "recorded_assessment": "correct",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "I recorded all four planned steps and wrote the control answer below.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_21bb1d35bf264d0e",
+    "family_id": "scenario_21bb1d35bf264d0e",
+    "split": "development",
+    "tags": [
+      "software testing and Git",
+      "completed with understanding"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: completed with understanding. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_519ad712f553415e",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:07.627997+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand network DNS records",
+      "planned_activity": "Run a DNS lookup and inspect the returned A record",
+      "progress": {
+        "description": "Recorded steps in: Run a DNS lookup and inspect the returned A record",
+        "planned_units": 4.0,
+        "completed_units": 4.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "What type of address does a DNS A record contain?",
+          "student_answer": "An IPv4 address",
+          "reference_answer": "An IPv4 address",
+          "recorded_assessment": "correct",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "I recorded all four planned steps and wrote the control answer below.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_c8172ba812e64adc",
+    "family_id": "scenario_c8172ba812e64adc",
+    "split": "development",
+    "tags": [
+      "networking and cybersecurity",
+      "completed with understanding"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: completed with understanding. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_73337718248842bb",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:07.732297+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Write testable software requirements",
+      "planned_activity": "Write a software user story with an observable acceptance criterion",
+      "progress": {
+        "description": "Recorded steps in: Write a software user story with an observable acceptance criterion",
+        "planned_units": 4.0,
+        "completed_units": 4.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "Should a testable acceptance criterion describe an observable result?",
+          "student_answer": "Yes",
+          "reference_answer": "Yes",
+          "recorded_assessment": "correct",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "I recorded all four planned steps and wrote the control answer below.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_94a51faf603c4efb",
+    "family_id": "scenario_94a51faf603c4efb",
+    "split": "development",
+    "tags": [
+      "software design and requirements",
+      "completed with understanding"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: completed with understanding. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_bf3e07694a5d442a",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:07.842996+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Trace a Python loop",
+      "planned_activity": "Trace the loop values produced by range(3) and implement a short Python loop",
+      "progress": {
+        "description": "Recorded steps in: Trace the loop values produced by range(3) and implement a short Python loop",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded two of four planned steps; the remaining steps are not recorded as completed.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_0ff4aff1e7774aee",
+    "family_id": "scenario_0ff4aff1e7774aee",
+    "split": "development",
+    "tags": [
+      "programming and algorithms",
+      "partial completion"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: partial completion. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_21b7859ddb34434d",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:07.963160+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand SQL GROUP BY",
+      "planned_activity": "Write SQL queries counting orders per customer using GROUP BY",
+      "progress": {
+        "description": "Recorded steps in: Write SQL queries counting orders per customer using GROUP BY",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded two of four planned steps; the remaining steps are not recorded as completed.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_9023f1632e054db3",
+    "family_id": "scenario_9023f1632e054db3",
+    "split": "development",
+    "tags": [
+      "databases and SQL",
+      "partial completion"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: partial completion. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_74890cf98b184993",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:08.110176+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Build an accessible HTML form",
+      "planned_activity": "Create an HTML form with labels linked to input elements and style it with CSS",
+      "progress": {
+        "description": "Recorded steps in: Create an HTML form with labels linked to input elements and style it with CSS",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded two of four planned steps; the remaining steps are not recorded as completed.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_9ae20dcb732c48eb",
+    "family_id": "scenario_9ae20dcb732c48eb",
+    "split": "development",
+    "tags": [
+      "web development and APIs",
+      "partial completion"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: partial completion. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_9010bb8243c34ccf",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:08.247160+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Resolve a Git merge conflict",
+      "planned_activity": "Inspect conflicting Git changes and resolve one merge conflict",
+      "progress": {
+        "description": "Recorded steps in: Inspect conflicting Git changes and resolve one merge conflict",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded two of four planned steps; the remaining steps are not recorded as completed.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_9a324994d09549a3",
+    "family_id": "scenario_9a324994d09549a3",
+    "split": "development",
+    "tags": [
+      "software testing and Git",
+      "partial completion"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: partial completion. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_a157d9693f8b4a8b",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:08.365187+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Inspect TCP network connections",
+      "planned_activity": "Inspect TCP connections in a local network and identify the endpoints",
+      "progress": {
+        "description": "Recorded steps in: Inspect TCP connections in a local network and identify the endpoints",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded two of four planned steps; the remaining steps are not recorded as completed.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_227d5ba0387c4ff5",
+    "family_id": "scenario_227d5ba0387c4ff5",
+    "split": "development",
+    "tags": [
+      "networking and cybersecurity",
+      "partial completion"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: partial completion. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_d69926d2da904515",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:08.476374+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand UML class diagrams",
+      "planned_activity": "Draw a UML class diagram showing classes and an association",
+      "progress": {
+        "description": "Recorded steps in: Draw a UML class diagram showing classes and an association",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded two of four planned steps; the remaining steps are not recorded as completed.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_73ded52e027c44c9",
+    "family_id": "scenario_73ded52e027c44c9",
+    "split": "development",
+    "tags": [
+      "software design and requirements",
+      "partial completion"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: partial completion. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_b05cb3ab9d0f4e51",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:08.590435+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand JavaScript array search",
+      "planned_activity": "Implement a JavaScript function using indexOf to search an array",
+      "progress": {
+        "description": "Recorded steps in: Implement a JavaScript function using indexOf to search an array",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "What does ['a', 'b'].indexOf('x') return?",
+          "student_answer": "0",
+          "reference_answer": "-1",
+          "recorded_assessment": "incorrect",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "The recorded control answer differs from the reference answer; no corrective work has been recorded.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_06e555f928894ae2",
+    "family_id": "scenario_06e555f928894ae2",
+    "split": "development",
+    "tags": [
+      "programming and algorithms",
+      "incorrect control answer"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: incorrect control answer. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_e3307d4903ea487e",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:08.693070+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand database transaction rollback",
+      "planned_activity": "Start a SQL transaction, change a value and roll back the transaction",
+      "progress": {
+        "description": "Recorded steps in: Start a SQL transaction, change a value and roll back the transaction",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "Does ROLLBACK commit the uncommitted changes of a transaction?",
+          "student_answer": "Yes",
+          "reference_answer": "No",
+          "recorded_assessment": "incorrect",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "The recorded control answer differs from the reference answer; no corrective work has been recorded.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_911e1e7d6cf04955",
+    "family_id": "scenario_911e1e7d6cf04955",
+    "split": "development",
+    "tags": [
+      "databases and SQL",
+      "incorrect control answer"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: incorrect control answer. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_f72bd009c28740a5",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:08.778251+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand JSON parsing in JavaScript",
+      "planned_activity": "Parse a JSON object string in JavaScript and inspect the returned value",
+      "progress": {
+        "description": "Recorded steps in: Parse a JSON object string in JavaScript and inspect the returned value",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "Does JSON.parse return a JavaScript object when given a valid JSON object string?",
+          "student_answer": "No, it always returns the original string",
+          "reference_answer": "Yes",
+          "recorded_assessment": "incorrect",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "The recorded control answer differs from the reference answer; no corrective work has been recorded.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_7166bdfe7f8d49bf",
+    "family_id": "scenario_7166bdfe7f8d49bf",
+    "split": "development",
+    "tags": [
+      "web development and APIs",
+      "incorrect control answer"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: incorrect control answer. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_eeafd7f3b42c4abd",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:08.870489+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand Git branching",
+      "planned_activity": "Create a Git branch and inspect the currently checked-out branch",
+      "progress": {
+        "description": "Recorded steps in: Create a Git branch and inspect the currently checked-out branch",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "Does git branch feature by itself switch the current branch to feature?",
+          "student_answer": "Yes",
+          "reference_answer": "No",
+          "recorded_assessment": "incorrect",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "The recorded control answer differs from the reference answer; no corrective work has been recorded.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_26f88f43a4664520",
+    "family_id": "scenario_26f88f43a4664520",
+    "split": "development",
+    "tags": [
+      "software testing and Git",
+      "incorrect control answer"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: incorrect control answer. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_39ca263cac8849e2",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:09.086698+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand firewall port rules",
+      "planned_activity": "Configure a firewall rule for a local HTTPS service and test the allowed port",
+      "progress": {
+        "description": "Recorded steps in: Configure a firewall rule for a local HTTPS service and test the allowed port",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "What is the default TCP port for HTTPS?",
+          "student_answer": "80",
+          "reference_answer": "443",
+          "recorded_assessment": "incorrect",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "The recorded control answer differs from the reference answer; no corrective work has been recorded.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_b79e829232194570",
+    "family_id": "scenario_b79e829232194570",
+    "split": "development",
+    "tags": [
+      "networking and cybersecurity",
+      "incorrect control answer"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: incorrect control answer. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_a8fda30b08734777",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:09.201872+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Compare software design choices",
+      "planned_activity": "Compare a tightly coupled and a loosely coupled software component design",
+      "progress": {
+        "description": "Recorded steps in: Compare a tightly coupled and a loosely coupled software component design",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": [
+        {
+          "question": "Does high coupling mean components are independent of each other?",
+          "student_answer": "Yes",
+          "reference_answer": "No",
+          "recorded_assessment": "incorrect",
+          "ai_inferred_assessment": null
+        }
+      ],
+      "student_note": "The recorded control answer differs from the reference answer; no corrective work has been recorded.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_f25e3cda7ff040cd",
+    "family_id": "scenario_f25e3cda7ff040cd",
+    "split": "development",
+    "tags": [
+      "software design and requirements",
+      "incorrect control answer"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: incorrect control answer. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_587bcc6ac4c64796",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:09.344661+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Compare algorithm approaches in Python",
+      "planned_activity": "Implement linear search and binary search on a sorted list in Python",
+      "progress": {
+        "description": "Recorded steps in: Implement linear search and binary search on a sorted list in Python",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 35.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded 35 minutes against a 20-minute plan. I have not recorded why the times differ.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_83c8d4975b6f4ff1",
+    "family_id": "scenario_83c8d4975b6f4ff1",
+    "split": "development",
+    "tags": [
+      "programming and algorithms",
+      "time deviation"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: time deviation. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_d2035358381e468b",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:09.438874+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Investigate database indexes",
+      "planned_activity": "Compare query plans for a SQL lookup before and after creating a database index",
+      "progress": {
+        "description": "Recorded steps in: Compare query plans for a SQL lookup before and after creating a database index",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 35.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded 35 minutes against a 20-minute plan. I have not recorded why the times differ.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_3c79289e25c44d5f",
+    "family_id": "scenario_3c79289e25c44d5f",
+    "split": "development",
+    "tags": [
+      "databases and SQL",
+      "time deviation"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: time deviation. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_f3de05003d23470f",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:09.593101+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Handle HTTP errors in a web client",
+      "planned_activity": "Add a branch for an HTTP 404 response in a JavaScript API client",
+      "progress": {
+        "description": "Recorded steps in: Add a branch for an HTTP 404 response in a JavaScript API client",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 35.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded 35 minutes against a 20-minute plan. I have not recorded why the times differ.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_06693f2d906b401a",
+    "family_id": "scenario_06693f2d906b401a",
+    "split": "development",
+    "tags": [
+      "web development and APIs",
+      "time deviation"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: time deviation. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_751e8b960d224c26",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:09.694607+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Write a software integration test",
+      "planned_activity": "Write an integration test checking interaction between two Python modules",
+      "progress": {
+        "description": "Recorded steps in: Write an integration test checking interaction between two Python modules",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 35.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded 35 minutes against a 20-minute plan. I have not recorded why the times differ.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_110bd6b4b71a4084",
+    "family_id": "scenario_110bd6b4b71a4084",
+    "split": "development",
+    "tags": [
+      "software testing and Git",
+      "time deviation"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: time deviation. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_635d5e5b031e40c9",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:09.802602+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Distinguish authentication and authorization",
+      "planned_activity": "Compare login identity checks with access-permission checks in a small system",
+      "progress": {
+        "description": "Recorded steps in: Compare login identity checks with access-permission checks in a small system",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 35.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded 35 minutes against a 20-minute plan. I have not recorded why the times differ.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_58d25fdde25b4288",
+    "family_id": "scenario_58d25fdde25b4288",
+    "split": "development",
+    "tags": [
+      "networking and cybersecurity",
+      "time deviation"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: time deviation. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_de552f77cc744990",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:09.933287+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Clarify software acceptance criteria",
+      "planned_activity": "Revise ambiguous software requirements into testable acceptance criteria",
+      "progress": {
+        "description": "Recorded steps in: Revise ambiguous software requirements into testable acceptance criteria",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 35.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I recorded 35 minutes against a 20-minute plan. I have not recorded why the times differ.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_6f3ec687ba7b4015",
+    "family_id": "scenario_6f3ec687ba7b4015",
+    "split": "development",
+    "tags": [
+      "software design and requirements",
+      "time deviation"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: time deviation. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_b7729dea236e4f83",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:10.134445+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand Python dictionary lookups",
+      "planned_activity": "Write examples using Python dict.get with a default value",
+      "progress": null,
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": null,
+      "control_results": null,
+      "student_note": "I have not recorded progress or the time spent on this ICT activity.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_80cd6dcce0a14c2e",
+    "family_id": "scenario_80cd6dcce0a14c2e",
+    "split": "development",
+    "tags": [
+      "programming and algorithms",
+      "missing information"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: missing information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_f46563c66449459a",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:10.256044+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand database constraints",
+      "planned_activity": "Create a database table with a NOT NULL constraint and try example inserts",
+      "progress": null,
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": null,
+      "control_results": null,
+      "student_note": "I have not recorded progress or the time spent on this ICT activity.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_1659aa22a60c4b11",
+    "family_id": "scenario_1659aa22a60c4b11",
+    "split": "development",
+    "tags": [
+      "databases and SQL",
+      "missing information"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: missing information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_dd60ed441be94c56",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:10.375900+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand React state updates",
+      "planned_activity": "Build a small React counter and inspect its state update behavior",
+      "progress": null,
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": null,
+      "control_results": null,
+      "student_note": "I have not recorded progress or the time spent on this ICT activity.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_b6e14bf43fbd47ef",
+    "family_id": "scenario_b6e14bf43fbd47ef",
+    "split": "development",
+    "tags": [
+      "web development and APIs",
+      "missing information"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: missing information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_ceb9c373bff442e1",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:10.505664+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Choose boundary unit tests",
+      "planned_activity": "Write Python unit tests for empty and one-element input lists",
+      "progress": null,
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": null,
+      "control_results": null,
+      "student_note": "I have not recorded progress or the time spent on this ICT activity.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_1deacf0a518c4298",
+    "family_id": "scenario_1deacf0a518c4298",
+    "split": "development",
+    "tags": [
+      "software testing and Git",
+      "missing information"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: missing information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_6176fd61768a4369",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:10.624938+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Inspect an encryption configuration",
+      "planned_activity": "Inspect the encryption configuration of a local network service",
+      "progress": null,
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": null,
+      "control_results": null,
+      "student_note": "I have not recorded progress or the time spent on this ICT activity.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_adf62fa5842441f3",
+    "family_id": "scenario_adf62fa5842441f3",
+    "split": "development",
+    "tags": [
+      "networking and cybersecurity",
+      "missing information"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: missing information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_df5652286f3441f3",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:10.719176+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand software design through system architecture",
+      "planned_activity": "Inspect a software design architecture diagram and list component responsibilities",
+      "progress": null,
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": null,
+      "control_results": null,
+      "student_note": "I have not recorded progress or the time spent on this ICT activity.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_92993c4f74b34328",
+    "family_id": "scenario_92993c4f74b34328",
+    "split": "development",
+    "tags": [
+      "software design and requirements",
+      "missing information"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: missing information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_ec3c46f30c7e4948",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:42.065753+00:00",
+    "warnings": []
+  },
+  {
+    "inputs": {
+      "learning_goal": "Refactor a Java method",
+      "planned_activity": "Split one Java method into smaller functions and inspect the results",
+      "progress": {
+        "description": "Recorded steps in: Split one Java method into smaller functions and inspect the results",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I completed all four planned steps.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_6791bd2fd3fe44fd",
+    "family_id": "scenario_6791bd2fd3fe44fd",
+    "split": "development",
+    "tags": [
+      "programming and algorithms",
+      "contradictory information",
+      "intentional-robustness"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: contradictory information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_65f7faa5b62c4550",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:42.163192+00:00",
+    "warnings": [
+      "Student note and numeric progress may conflict; reviewer must inspect without choosing an invented truth"
+    ]
+  },
+  {
+    "inputs": {
+      "learning_goal": "Design a normalized database schema",
+      "planned_activity": "Split a database table with repeated customer details into related tables",
+      "progress": {
+        "description": "Recorded steps in: Split a database table with repeated customer details into related tables",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I completed all four planned steps.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_e7ea8f88bec848ad",
+    "family_id": "scenario_e7ea8f88bec848ad",
+    "split": "development",
+    "tags": [
+      "databases and SQL",
+      "contradictory information",
+      "intentional-robustness"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: contradictory information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_f9cc84c93b8c4c4c",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:42.307748+00:00",
+    "warnings": [
+      "Student note and numeric progress may conflict; reviewer must inspect without choosing an invented truth"
+    ]
+  },
+  {
+    "inputs": {
+      "learning_goal": "Use API authentication",
+      "planned_activity": "Write an API request carrying an authentication token and inspect the response",
+      "progress": {
+        "description": "Recorded steps in: Write an API request carrying an authentication token and inspect the response",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I completed all four planned steps.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_658b2e4268e74614",
+    "family_id": "scenario_658b2e4268e74614",
+    "split": "development",
+    "tags": [
+      "web development and APIs",
+      "contradictory information",
+      "intentional-robustness"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: contradictory information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_db4f6b8331274275",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:42.423011+00:00",
+    "warnings": [
+      "Student note and numeric progress may conflict; reviewer must inspect without choosing an invented truth"
+    ]
+  },
+  {
+    "inputs": {
+      "learning_goal": "Review a Git commit",
+      "planned_activity": "Inspect a Git diff and record the behavior changed by a commit",
+      "progress": {
+        "description": "Recorded steps in: Inspect a Git diff and record the behavior changed by a commit",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I completed all four planned steps.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_54cf83a2af0246e7",
+    "family_id": "scenario_54cf83a2af0246e7",
+    "split": "development",
+    "tags": [
+      "software testing and Git",
+      "contradictory information",
+      "intentional-robustness"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: contradictory information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_f3df5a7fb4ac41f1",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:46:42.557662+00:00",
+    "warnings": [
+      "Student note and numeric progress may conflict; reviewer must inspect without choosing an invented truth"
+    ]
+  },
+  {
+    "inputs": {
+      "learning_goal": "Understand networking and IP routing",
+      "planned_activity": "Test TCP traffic routing between two local subnets and inspect the route entries",
+      "progress": {
+        "description": "Recorded steps in: Test TCP traffic routing between two local subnets and inspect the route entries",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I completed all four planned steps.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_a5efc5b7e45246ff",
+    "family_id": "scenario_a5efc5b7e45246ff",
+    "split": "development",
+    "tags": [
+      "networking and cybersecurity",
+      "contradictory information",
+      "intentional-robustness"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: contradictory information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_76d61cb965c346a6",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:47:09.945925+00:00",
+    "warnings": [
+      "Student note and numeric progress may conflict; reviewer must inspect without choosing an invented truth"
+    ]
+  },
+  {
+    "inputs": {
+      "learning_goal": "Trace software requirements",
+      "planned_activity": "Link four software requirements to the components intended to implement them",
+      "progress": {
+        "description": "Recorded steps in: Link four software requirements to the components intended to implement them",
+        "planned_units": 4.0,
+        "completed_units": 2.0,
+        "unit": "steps"
+      },
+      "planned_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "reported_time": {
+        "value": 20.0,
+        "unit": "minutes"
+      },
+      "control_results": null,
+      "student_note": "I completed all four planned steps.",
+      "previous_question": null
+    },
+    "scenario_id": "scenario_14a6c05de4834c2d",
+    "family_id": "scenario_14a6c05de4834c2d",
+    "split": "development",
+    "tags": [
+      "software design and requirements",
+      "contradictory information",
+      "intentional-robustness"
+    ],
+    "synthetic_origin": "Codex-authored synthetic case; assistant-assisted content check before collection; not independent human validation",
+    "research_labels": {},
+    "evaluation_notes": "Material construction before any experiment outputs. Intended variation: contradictory information. Conflicting numeric/prose evidence is deliberate only in the contradictory-information cases.",
+    "id": "sv_6bbaadec621341af",
+    "dataset_id": "ds_c510b1053f5f40b7",
+    "version": 1,
+    "parent_id": null,
+    "generation": null,
+    "review_status": "awaiting_review",
+    "created_at": "2026-10-30T09:47:10.084328+00:00",
+    "warnings": [
+      "Student note and numeric progress may conflict; reviewer must inspect without choosing an invented truth"
+    ]
+  }
+]

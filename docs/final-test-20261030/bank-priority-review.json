@@ -1,0 +1,176 @@
+{
+  "stage": "Before preflight and experiment outputs",
+  "reason": "Input applicability inspection showed broad variation rules shadowed all topic-specific questions. Apply one general priority policy: missing data clarification > specific topic evidence > generic control/time/progress > fallback. No question text or metric tuning.",
+  "changes": [
+    {
+      "parent": "qv_906541dcbd30437f",
+      "version": "qv_d92775c6c9f14c69",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_00d1f83f86794264",
+      "version": "qv_a8b1e8f3a0524d60",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_66d845cfe5c34f9e",
+      "version": "qv_1aa4fdd9e6a241a6",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_70e66d6f49974340",
+      "version": "qv_ad09ae84f2854958",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_562386146fc94f55",
+      "version": "qv_157b757d5fad4913",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_833cd94c02054e23",
+      "version": "qv_149abd1aa116443e",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_6a7d06030f624897",
+      "version": "qv_8e17a51bfb9f42d4",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_f01f87b66bc3453d",
+      "version": "qv_21ce435d54de43a7",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_2cdb81b3bdef47c4",
+      "version": "qv_9041ec0bd2c74cf5",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_25da86e665f24f88",
+      "version": "qv_d0d5690d925441c9",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_0d77296ddeb9488b",
+      "version": "qv_2528dd8c4a514a67",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_4fcfdb5c115e43bc",
+      "version": "qv_ec2afa5a86234ce1",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_108c7dbfc9964324",
+      "version": "qv_b378e19804bb46d6",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_71529b1cd9894b58",
+      "version": "qv_064a4033c4654573",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_ae7ab332bf2444cf",
+      "version": "qv_646f5dcd77f3460a",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_2734b924aa874dd9",
+      "version": "qv_dc145753ee514c1a",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_adecad24247648a2",
+      "version": "qv_3f1950eecbbb4720",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_54401f47684f4db4",
+      "version": "qv_85d230d05a134fc1",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_7642fb2b67c542eb",
+      "version": "qv_218d385acc9749b8",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_8759f354870f41dc",
+      "version": "qv_1169c7d48d7444cc",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_bf6b5b7da846462e",
+      "version": "qv_40843a039d27421d",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_07924c861a174512",
+      "version": "qv_31b03a8f8ca24504",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_22878bf95f4c471c",
+      "version": "qv_029c1bef85134ace",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_5fd767cf4ecc4f6e",
+      "version": "qv_285c8236a61645b0",
+      "old_priority": 20,
+      "new_priority": 50
+    },
+    {
+      "parent": "qv_213eef87999447d7",
+      "version": "qv_1b23624e063f474b",
+      "old_priority": 90,
+      "new_priority": 40
+    },
+    {
+      "parent": "qv_c5b1f6065d5440ec",
+      "version": "qv_2f1cb05aedf54681",
+      "old_priority": 80,
+      "new_priority": 40
+    },
+    {
+      "parent": "qv_3cc2a36edcc247ad",
+      "version": "qv_ac99d30040db459e",
+      "old_priority": 70,
+      "new_priority": 30
+    },
+    {
+      "parent": "qv_e452157659174467",
+      "version": "qv_3947d77199ae4090",
+      "old_priority": 60,
+      "new_priority": 20
+    }
+  ],
+  "superseded_snapshot": "snap_576c7304c7284922",
+  "current_snapshot": "snap_27d80ef5624f4c9e"
+}

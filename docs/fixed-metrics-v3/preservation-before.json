@@ -1,0 +1,37 @@
+{
+  "legacy_version": "fixed-rubric-v2-method-blind",
+  "implementation_hash": "fe1eeecce0fd839690b7a26a2de6ba58ce70946629aa5247647b0ed1e01e2b00",
+  "files": {
+    "docs/final-test-20261030/bank-applicability-before-test.json": "79da87cf088c8e49037023e5e9c47bce679596260e877cfa41daff2812f03646",
+    "docs/final-test-20261030/bank-authored-content.json": "e55ecca3b29312be799f58fbfb81f0e95f1fc6d9b887fad21fb733c681d58cd6",
+    "docs/final-test-20261030/bank-priority-review.json": "9c45c5a9d58302e826172ae8dff13dc12700fedb6b8b094f1dedddab583d90bc",
+    "docs/final-test-20261030/bank-review.json": "4b55f8aeb2d97e91126ae1c5d3392ace798cdb9e8487891aa21e4c55deded35d",
+    "docs/final-test-20261030/bank-snapshot.json": "57c52ae673d6ba888bb4bd544a204b39d03a72c738e782ad705a5858676082ae",
+    "docs/final-test-20261030/collection-config-before-preflight.json": "1789514a2e27c81956467aa890352ac92b60d142774f1507ac9acc4c505f4908",
+    "docs/final-test-20261030/dataset-snapshot.json": "2aaaafca3e49c970512aecbfd5d662c5c0113fa05f45c363f6ebb44cee27cc59",
+    "docs/final-test-20261030/experiment-export.json": "0a4ef2ff76b46e2aa63b83777a33d89984862485b123aec8ef65f86fa2dc9d64",
+    "docs/final-test-20261030/experiment-queued.json": "432772eb2ff91facb5d14dd024b5182f69812b1afc39cb3dd03c8a7ba9298882",
+    "docs/final-test-20261030/fixed-metrics-reproduced.json": "73e76ec2fec4c529d647b115a2a7057410f857a683de512b7936e9ef0db382a7",
+    "docs/final-test-20261030/fixed-metrics.json": "4c83f4b25f9ef1ac13e09cb06efa602c4424d5a63fe1c866614b24775f003b70",
+    "docs/final-test-20261030/initial-bank-generation.json": "338207f7bfe40a024e400d7f380a6644cd298fb441bb75361bc0184dcd6c4c23",
+    "docs/final-test-20261030/initial-scenario-generation.json": "f85ee04362a25eebc6e0bba50b9eebe8771fae9d97fad3f60368649a9da1a08c",
+    "docs/final-test-20261030/material-generation-amendment.json": "0a66213b1a08cb15caea106bee6b4738842a3b529eafd9c45831d30b693d72fe",
+    "docs/final-test-20261030/preflight.json": "025ce9ecffba8d88c927d038262a68769e01054b54375e6fe95d9677f0e967a6",
+    "docs/final-test-20261030/protocol.json": "558f640d1cc78afc6664a5a5d1c31098969b197bc790d54b3abd3fcd7f0b9fea",
+    "docs/final-test-20261030/RESULTATEN.md": "9d1c4ae07bab1f49bc7acb27e0b7a4d8bedf79b20f39f286d164ab2676789b6c",
+    "docs/final-test-20261030/scenario-authored-content.json": "bbe69e0df23771cda175bf86756d2fbe65c98a295a087f8bb2c22d18e08d8ab2",
+    "docs/final-test-20261030/scenario-generation-amendment.json": "2d15a79fa3b3836e1d95f66c82185ed315421de9e91b7ab986af11822c894edd",
+    "docs/final-test-20261030/scenario-review.json": "4b13d1e355114d170a4528316598f9d0878f50dff3588aef0e36f73010a59354",
+    "docs/final-test-20261030/state.json": "911e4d34e8f6a6ba6754f759e6ed97a79bd3e383b869d306ba20c9832ce54d82",
+    "docs/final-test-20261030/verification.json": "f4af2c478c84742a3aa8c05a92680f6d585700dfb4aa4371481e77fc2c85bba3"
+  },
+  "database_record_hashes": {
+    "influences": "6de70969716c8c36e173c383463ed799d58f37a069e03f0eab559f330ce34c84",
+    "labels": "1ad7a30088ec8b8f43a5443a8daa5f9c8f846ad2f1a7c767980a9cac623b37ba",
+    "snapshots": "f3d1762f710efc943bc257bc2bb403b964a1ae1e757f62d8fd64052bf570aa9a",
+    "outputs": "029aa9d12e68af9b604f992702d72820511c5b76cdc7a9dbd073ac0602ced1e7",
+    "reviews": "d81a11083a0754920e6502b32d38c76a3d15aa726691918684f6d8764bbe368d",
+    "jobs": "e4dee4299f2fed606de97b358135ee6b27cbe478eab182f918cb4ca92452225d"
+  },
+  "database_backup": "data\\research-before-v3-4a689d35.sqlite3"
+}

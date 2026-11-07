@@ -1,2 +1,5 @@
-# Runtime and tests use only the Python standard library (Python >= 3.10).
-# No pip install is needed. Optional privacy tools are deliberately not dependencies.
+fastapi==0.135.1
+uvicorn==0.42.0
+httpx==0.28.1
+pydantic==2.12.5
+pytest==9.0.2

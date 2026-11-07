@@ -1,0 +1,909 @@
+{
+  "id": "snap_27d80ef5624f4c9e",
+  "kind": "bank",
+  "name": "Final ICT 3010 - frozen 32 questions after applicability check",
+  "dataset_id": null,
+  "records": [
+    {
+      "text": "Which part of your Python approach would you practice next to check your understanding?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "learning_goal": "Python"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_d92775c6c9f14c69",
+      "question_id": "question_b13870cfd02d415a",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_906541dcbd30437f",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:38.818640+00:00"
+    },
+    {
+      "text": "What small JavaScript example would help you compare two possible approaches?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "JavaScript"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_a8b1e8f3a0524d60",
+      "question_id": "question_bc9b44e35ba7438f",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_00d1f83f86794264",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:38.928614+00:00"
+    },
+    {
+      "text": "Which example would help you examine your approach to this algorithm?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "learning_goal": "algorithm"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_1aa4fdd9e6a241a6",
+      "question_id": "question_fff5e886a251408d",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_66d845cfe5c34f9e",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:39.029624+00:00"
+    },
+    {
+      "text": "What would you test next to check your understanding of this Java activity?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "learning_goal": "Java"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_ad09ae84f2854958",
+      "question_id": "question_eb32b40c5e1144a1",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_70e66d6f49974340",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:39.168735+00:00"
+    },
+    {
+      "text": "Which SQL result would you inspect to check your understanding of the query?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "learning_goal": "SQL"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_157b757d5fad4913",
+      "question_id": "question_913804d320784a12",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_562386146fc94f55",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:39.266262+00:00"
+    },
+    {
+      "text": "What evidence would help you decide whether your database approach supports your learning goal?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "learning_goal": "database"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_149abd1aa116443e",
+      "question_id": "question_8f915171151548c9",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_833cd94c02054e23",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:39.387132+00:00"
+    },
+    {
+      "text": "How would you explain your query approach to identify what you want to understand better?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "query"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_8e17a51bfb9f42d4",
+      "question_id": "question_1eea6eb87ed044ec",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_6a7d06030f624897",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:39.522460+00:00"
+    },
+    {
+      "text": "Which part of your schema design would you revisit to check your reasoning?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "schema"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_21ce435d54de43a7",
+      "question_id": "question_e32d695e046f4df3",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_f01f87b66bc3453d",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:39.626623+00:00"
+    },
+    {
+      "text": "Which API example would help you check whether you understand your current approach?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "learning_goal": "API"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_9041ec0bd2c74cf5",
+      "question_id": "question_42508bba96644a16",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_2cdb81b3bdef47c4",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:39.737418+00:00"
+    },
+    {
+      "text": "What would you change in your HTML practice to examine your understanding?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "HTML"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_d0d5690d925441c9",
+      "question_id": "question_7f719e61f7d64514",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_25da86e665f24f88",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:39.912695+00:00"
+    },
+    {
+      "text": "Which React behavior would you inspect to decide on your next learning step?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "React"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_2528dd8c4a514a67",
+      "question_id": "question_0c72be07a5d6402f",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_0d77296ddeb9488b",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:40.063855+00:00"
+    },
+    {
+      "text": "What would you compare when reflecting on your approach to the HTTP activity?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "HTTP"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_ec2afa5a86234ce1",
+      "question_id": "question_7fc7a4441c1d4f13",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_4fcfdb5c115e43bc",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:40.178715+00:00"
+    },
+    {
+      "text": "Which Git change would you inspect to check your understanding of your workflow?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "Git"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_b378e19804bb46d6",
+      "question_id": "question_d6031125d72641c7",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_108c7dbfc9964324",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:40.315432+00:00"
+    },
+    {
+      "text": "What would you learn by comparing two test cases for this activity?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "test"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_064a4033c4654573",
+      "question_id": "question_7c506ad50aec46cc",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_71529b1cd9894b58",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:40.481604+00:00"
+    },
+    {
+      "text": "Which part of your version control approach would you like to explain more clearly?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "learning_goal": "version control"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_646f5dcd77f3460a",
+      "question_id": "question_76cb5fd24992413d",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_ae7ab332bf2444cf",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:40.591806+00:00"
+    },
+    {
+      "text": "How would you choose a unit test example that helps you check your understanding?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "unit"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_dc145753ee514c1a",
+      "question_id": "question_2016df10b93d444d",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_2734b924aa874dd9",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:40.693262+00:00"
+    },
+    {
+      "text": "What DNS observation would help you decide what to investigate next?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "DNS"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_3f1950eecbbb4720",
+      "question_id": "question_d9e68762fddf48e5",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_adecad24247648a2",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:40.811069+00:00"
+    },
+    {
+      "text": "Which firewall example would you use to examine your reasoning about the activity?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "firewall"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_85d230d05a134fc1",
+      "question_id": "question_a5038691094b488c",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_54401f47684f4db4",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:40.960419+00:00"
+    },
+    {
+      "text": "What evidence would you inspect to reflect on your network learning approach?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "learning_goal": "network"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_218d385acc9749b8",
+      "question_id": "question_d2895f796697471e",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_7642fb2b67c542eb",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:41.056166+00:00"
+    },
+    {
+      "text": "Which authentication example would help you check what you understand and what to revisit?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "authentication"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_1169c7d48d7444cc",
+      "question_id": "question_d8e33730cc304532",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_8759f354870f41dc",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:41.168361+00:00"
+    },
+    {
+      "text": "Which requirement would you revisit to clarify the reasoning behind your design approach?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "learning_goal": "requirement"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_40843a039d27421d",
+      "question_id": "question_ca8bf568d63f4f13",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_bf6b5b7da846462e",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:41.301178+00:00"
+    },
+    {
+      "text": "What would you compare in the UML diagram to check your understanding of the design?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "UML"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_31b03a8f8ca24504",
+      "question_id": "question_390c2cd5217c4d56",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_07924c861a174512",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:41.432934+00:00"
+    },
+    {
+      "text": "Which architecture choice would you examine to decide on your next learning step?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "architecture"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_029c1bef85134ace",
+      "question_id": "question_bded174bad1d4432",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_22878bf95f4c471c",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:41.511905+00:00"
+    },
+    {
+      "text": "What would help you explain how your user stories connect to the software learning goal?",
+      "tags": [
+        "ict",
+        "topic-specific",
+        "learning strategy"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {
+          "planned_activity": "user stor"
+        },
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 50,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_285c8236a61645b0",
+      "question_id": "question_d3cc781f03cf42ad",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_5fd767cf4ecc4f6e",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:41.615721+00:00"
+    },
+    {
+      "text": "What ICT learning goal would you like to clarify before deciding on your next step?",
+      "tags": [
+        "clarification"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [
+          "learning_goal"
+        ],
+        "contains": {},
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 100,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_969bf83e885f4b31",
+      "question_id": "question_b34a32f6a9864748",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 1,
+      "parent_id": null,
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:42:10.319110+00:00"
+    },
+    {
+      "text": "Which ICT activity would you like to describe so that you can reflect on your approach?",
+      "tags": [
+        "clarification"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [
+          "planned_activity"
+        ],
+        "contains": {},
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 99,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_700fa2cab66047a2",
+      "question_id": "question_db37211f8f9e427c",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 1,
+      "parent_id": null,
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:42:10.390361+00:00"
+    },
+    {
+      "text": "What would you record about your progress to help you plan your next ICT learning step?",
+      "tags": [
+        "progress",
+        "clarification"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [
+          "progress"
+        ],
+        "contains": {},
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 98,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_b39ed2d5fd53436e",
+      "question_id": "question_779f562a6ed546f9",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 1,
+      "parent_id": null,
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:42:10.437557+00:00"
+    },
+    {
+      "text": "Which idea would you revisit to understand your incorrect answer in this ICT activity?",
+      "tags": [
+        "understanding"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {},
+        "compare": [],
+        "control_assessment": "incorrect"
+      },
+      "priority": 40,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_1b23624e063f474b",
+      "question_id": "question_6f3c71a80cc54060",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_213eef87999447d7",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:41.744419+00:00"
+    },
+    {
+      "text": "How would you explain the reasoning behind your recorded correct answer to check your understanding further?",
+      "tags": [
+        "understanding"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {},
+        "compare": [],
+        "control_assessment": "correct"
+      },
+      "priority": 40,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_2f1cb05aedf54681",
+      "question_id": "question_31b518bc546d43c9",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_c5b1f6065d5440ec",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:41.882433+00:00"
+    },
+    {
+      "text": "What would you adjust in your next time estimate after comparing the recorded ICT activity durations?",
+      "tags": [
+        "time management"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {},
+        "compare": [
+          {
+            "left": "reported_time.value",
+            "op": "gt",
+            "right": "planned_time.value"
+          }
+        ],
+        "control_assessment": null
+      },
+      "priority": 30,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_ac99d30040db459e",
+      "question_id": "question_d96a3e884b2143fe",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_3cc2a36edcc247ad",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:42.023710+00:00"
+    },
+    {
+      "text": "Which next step would you choose after comparing your recorded progress with your ICT activity plan?",
+      "tags": [
+        "progress",
+        "next steps"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {},
+        "compare": [
+          {
+            "left": "progress.completed_units",
+            "op": "lt",
+            "right": "progress.planned_units"
+          }
+        ],
+        "control_assessment": null
+      },
+      "priority": 20,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_3947d77199ae4090",
+      "question_id": "question_d6a55446ab1343bc",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 2,
+      "parent_id": "qv_e452157659174467",
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:49:42.164633+00:00"
+    },
+    {
+      "text": "What would you like to reflect on about your approach to this ICT learning activity?",
+      "tags": [
+        "neutral fallback"
+      ],
+      "conditions": {
+        "present": [],
+        "missing": [],
+        "contains": {},
+        "compare": [],
+        "control_assessment": null
+      },
+      "priority": 0,
+      "origin": "Codex-authored synthetic research suggestion; applicability checked before collection; not an Ollama generation",
+      "id": "qv_7ae01ddd2a6a4f70",
+      "question_id": "question_dd1dda95365e4579",
+      "bank_id": "bank_28c1ae154db14eac",
+      "generation": null,
+      "warnings": [],
+      "version": 1,
+      "parent_id": null,
+      "review_status": "approved",
+      "created_at": "2026-10-30T09:42:10.719667+00:00"
+    }
+  ],
+  "excluded_unapproved": 0,
+  "created_at": "2026-10-30T09:49:42.265744+00:00",
+  "frozen_test": false,
+  "content_hash": "99e24029ab7997265e02a5595bbcf108c593f57aaf8571f7cdf2bcb6401031e6",
+  "bank_id": "bank_28c1ae154db14eac",
+  "bank_name": "Final ICT comparison 3010 - new bank (32)",
+  "bank_configuration": {
+    "id": "bank_28c1ae154db14eac",
+    "name": "Final ICT comparison 3010 - new bank (32)",
+    "description": "New independent bank for balanced ICT method comparison; content checked before frozen test.",
+    "created_at": "2026-10-30T09:38:40.856419+00:00"
+  },
+  "review_mode": "approved",
+  "usable_fallback": true,
+  "review_counts": {
+    "approved": 32
+  }
+}

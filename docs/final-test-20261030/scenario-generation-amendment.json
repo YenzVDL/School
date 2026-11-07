@@ -1,0 +1,7 @@
+{
+  "stage": "Before dataset freeze, collection preflight and outputs",
+  "reason": "Local-model draft reference answers did not align with their tasks. Revised original generated candidates and supplied the other balanced assistant-authored cases before collection.",
+  "new_count": 36,
+  "revised_original_candidates": 3,
+  "metric_or_collection_changes": false
+}

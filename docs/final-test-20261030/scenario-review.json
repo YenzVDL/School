@@ -1,0 +1,24 @@
+{
+  "count": 36,
+  "unique_input_fingerprints": 36,
+  "topic_counts": {
+    "programming and algorithms": 6,
+    "databases and SQL": 6,
+    "web development and APIs": 6,
+    "software testing and Git": 6,
+    "networking and cybersecurity": 6,
+    "software design and requirements": 6
+  },
+  "variation_counts": {
+    "completed with understanding": 6,
+    "partial completion": 6,
+    "incorrect control answer": 6,
+    "time deviation": 6,
+    "missing information": 6,
+    "contradictory information": 6
+  },
+  "reviewer": "codex-assisted-content-review",
+  "independent_human_validation": false,
+  "intended_contradictions": 6,
+  "snapshot_id": "snap_f59d3c88c1ad4465"
+}

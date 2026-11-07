@@ -1,0 +1,120 @@
+[
+  {
+    "output_id": "out_aba96dc4990346ce",
+    "reason": "15 minutes versus 35 recorded",
+    "question": "What is one potential reason why the planned time for writing an integration test checking interaction between two Python modules (planned_time) might be longer than expected, given that the student has only recorded 15 minutes of actual work?",
+    "v2": {
+      "usefulness": "pass",
+      "context_fit": "pass",
+      "correctness": "inconclusive"
+    },
+    "v3": {
+      "format": "pass",
+      "reflection_structure": "inconclusive",
+      "contextual_grounding": "pass",
+      "factual_grounding": "flag",
+      "agency_wording": "inconclusive"
+    },
+    "flags": [
+      {
+        "criterion_id": "factual_grounding",
+        "metric_version": "fixed-rubric-v3-method-blind",
+        "rule_id": "facts.numeric_reported_time.v1",
+        "rule_version": "1",
+        "status": "flag",
+        "evidence": {
+          "claim": "15 minutes",
+          "claimed_normalized": 900.0,
+          "recorded_normalized": 2100.0,
+          "field": "reported_time"
+        },
+        "explanation": "Claim contradicts the recorded value.",
+        "scenario_fields": [
+          "reported_time",
+          "student_note"
+        ],
+        "deterministic": true,
+        "requires_semantic_judgment": false
+      }
+    ]
+  },
+  {
+    "output_id": "out_41b4b6eb41cd46bb",
+    "reason": "SQL query plan is not a reflection cue",
+    "question": "What is one potential reason why the query plan for the SQL lookup might appear different before and after creating a database index?",
+    "v2": {
+      "usefulness": "pass",
+      "context_fit": "pass",
+      "correctness": "inconclusive"
+    },
+    "v3": {
+      "format": "pass",
+      "reflection_structure": "inconclusive",
+      "contextual_grounding": "pass",
+      "factual_grounding": "inconclusive",
+      "agency_wording": "inconclusive"
+    },
+    "flags": []
+  },
+  {
+    "output_id": "out_5d521bdee31846ad",
+    "reason": "Recognizable technical recall",
+    "question": "What is a boundary unit test for an empty list in Python?",
+    "v2": {
+      "usefulness": "inconclusive",
+      "context_fit": "pass",
+      "correctness": "inconclusive"
+    },
+    "v3": {
+      "format": "pass",
+      "reflection_structure": "flag",
+      "contextual_grounding": "pass",
+      "factual_grounding": "inconclusive",
+      "agency_wording": "inconclusive"
+    },
+    "flags": [
+      {
+        "criterion_id": "reflection_structure",
+        "metric_version": "fixed-rubric-v3-method-blind",
+        "rule_id": "structure.learner_directed.v1",
+        "rule_version": "1",
+        "status": "flag",
+        "evidence": {
+          "classification": "technical_knowledge_or_recall",
+          "matched_pattern": "What is"
+        },
+        "explanation": "Recognized question structure only; genuine reflection and educational usefulness require semantic review.",
+        "scenario_fields": [],
+        "deterministic": true,
+        "requires_semantic_judgment": true
+      }
+    ]
+  },
+  {
+    "output_id": "out_bcea91b7df814590",
+    "reason": "Quoted raw output remains in format denominator",
+    "question": "\"How would you explain the reasoning behind your recorded correct answer to check your understanding further?\"",
+    "v2": {},
+    "v3": {
+      "format": "flag",
+      "reflection_structure": "skipped",
+      "contextual_grounding": "skipped",
+      "factual_grounding": "skipped",
+      "agency_wording": "skipped"
+    },
+    "flags": [
+      {
+        "criterion_id": "format",
+        "metric_version": "fixed-rubric-v3-method-blind",
+        "rule_id": "format.ends_in_question_mark.v1",
+        "rule_version": "1",
+        "status": "flag",
+        "evidence": [],
+        "explanation": "Raw output must end with a question mark, without trailing response text or quotation marks.",
+        "scenario_fields": [],
+        "deterministic": true,
+        "requires_semantic_judgment": false
+      }
+    ]
+  }
+]

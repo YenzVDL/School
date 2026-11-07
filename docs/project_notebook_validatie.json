@@ -1,0 +1,10 @@
+{
+  "notebook": "docs\\Zelfregiekompas_projectopbouw_en_metrics.ipynb",
+  "execution": "Jupyter kernel via nbclient",
+  "executable": "C:\\Users\\inten\\Desktop\\zelfregiekompas-research-lab-main\\.venv\\Scripts\\python.exe",
+  "cells": 71,
+  "executed_code_cells": 21,
+  "errors": 0,
+  "archived_json_files_unchanged": 29,
+  "policy": "No model calls, new experiments or database writes; archived JSON hashes checked before and after."
+}

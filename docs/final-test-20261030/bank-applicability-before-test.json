@@ -1,0 +1,469 @@
+{
+  "rule_version": "conditions-v3-ict-grounding",
+  "question_count": 32,
+  "excluded_rejected_versions": [],
+  "exact_duplicates": [],
+  "likely_near_duplicates": [],
+  "unconditional_versions": [
+    "qv_7ae01ddd2a6a4f70"
+  ],
+  "provably_unreachable": [],
+  "provably_shadowed_pairs": [],
+  "selection_frequencies": {
+    "qv_064a4033c4654573": 5,
+    "qv_157b757d5fad4913": 2,
+    "qv_9041ec0bd2c74cf5": 2,
+    "qv_dc145753ee514c1a": 1,
+    "qv_218d385acc9749b8": 2,
+    "qv_40843a039d27421d": 2,
+    "qv_d92775c6c9f14c69": 2,
+    "qv_d0d5690d925441c9": 1,
+    "qv_b378e19804bb46d6": 3,
+    "qv_31b03a8f8ca24504": 1,
+    "qv_a8b1e8f3a0524d60": 2,
+    "qv_149abd1aa116443e": 2,
+    "qv_1b23624e063f474b": 1,
+    "qv_8e17a51bfb9f42d4": 1,
+    "qv_ec2afa5a86234ce1": 1,
+    "qv_ac99d30040db459e": 1,
+    "qv_b39ed2d5fd53436e": 6,
+    "qv_ad09ae84f2854958": 1
+  },
+  "selections": [
+    {
+      "scenario_version_id": "sv_d12fae80e6794353",
+      "selected_version_id": "qv_064a4033c4654573",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_7c506ad50aec46cc"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_d269f9b4fe47493e",
+      "selected_version_id": "qv_157b757d5fad4913",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_913804d320784a12"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_27da58b8315c4749",
+      "selected_version_id": "qv_9041ec0bd2c74cf5",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_42508bba96644a16"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_519ad712f553415e",
+      "selected_version_id": "qv_dc145753ee514c1a",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_2016df10b93d444d"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_73337718248842bb",
+      "selected_version_id": "qv_218d385acc9749b8",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_d2895f796697471e"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_bf3e07694a5d442a",
+      "selected_version_id": "qv_40843a039d27421d",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_ca8bf568d63f4f13"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_21b7859ddb34434d",
+      "selected_version_id": "qv_d92775c6c9f14c69",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_b13870cfd02d415a"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_74890cf98b184993",
+      "selected_version_id": "qv_157b757d5fad4913",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_913804d320784a12"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_9010bb8243c34ccf",
+      "selected_version_id": "qv_d0d5690d925441c9",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_7f719e61f7d64514"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_a157d9693f8b4a8b",
+      "selected_version_id": "qv_b378e19804bb46d6",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_d6031125d72641c7"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_d69926d2da904515",
+      "selected_version_id": "qv_218d385acc9749b8",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_d2895f796697471e"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_b05cb3ab9d0f4e51",
+      "selected_version_id": "qv_31b03a8f8ca24504",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_390c2cd5217c4d56"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_e3307d4903ea487e",
+      "selected_version_id": "qv_a8b1e8f3a0524d60",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_bc9b44e35ba7438f"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_f72bd009c28740a5",
+      "selected_version_id": "qv_149abd1aa116443e",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_8f915171151548c9"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_eeafd7f3b42c4abd",
+      "selected_version_id": "qv_a8b1e8f3a0524d60",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_bc9b44e35ba7438f"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_39ca263cac8849e2",
+      "selected_version_id": "qv_b378e19804bb46d6",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_d6031125d72641c7"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_a8fda30b08734777",
+      "selected_version_id": "qv_064a4033c4654573",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_7c506ad50aec46cc"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_587bcc6ac4c64796",
+      "selected_version_id": "qv_1b23624e063f474b",
+      "winning_reason": {
+        "priority": 40,
+        "normalized_specificity": 1,
+        "stable_id": "question_6f3c71a80cc54060"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_d2035358381e468b",
+      "selected_version_id": "qv_d92775c6c9f14c69",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_b13870cfd02d415a"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_f3de05003d23470f",
+      "selected_version_id": "qv_8e17a51bfb9f42d4",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_1eea6eb87ed044ec"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_751e8b960d224c26",
+      "selected_version_id": "qv_ec2afa5a86234ce1",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_7fc7a4441c1d4f13"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_635d5e5b031e40c9",
+      "selected_version_id": "qv_064a4033c4654573",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_7c506ad50aec46cc"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_de552f77cc744990",
+      "selected_version_id": "qv_ac99d30040db459e",
+      "winning_reason": {
+        "priority": 30,
+        "normalized_specificity": 1,
+        "stable_id": "question_d96a3e884b2143fe"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_b7729dea236e4f83",
+      "selected_version_id": "qv_064a4033c4654573",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_7c506ad50aec46cc"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_f46563c66449459a",
+      "selected_version_id": "qv_b39ed2d5fd53436e",
+      "winning_reason": {
+        "priority": 98,
+        "normalized_specificity": 1,
+        "stable_id": "question_779f562a6ed546f9"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_dd60ed441be94c56",
+      "selected_version_id": "qv_b39ed2d5fd53436e",
+      "winning_reason": {
+        "priority": 98,
+        "normalized_specificity": 1,
+        "stable_id": "question_779f562a6ed546f9"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_ceb9c373bff442e1",
+      "selected_version_id": "qv_b39ed2d5fd53436e",
+      "winning_reason": {
+        "priority": 98,
+        "normalized_specificity": 1,
+        "stable_id": "question_779f562a6ed546f9"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_6176fd61768a4369",
+      "selected_version_id": "qv_b39ed2d5fd53436e",
+      "winning_reason": {
+        "priority": 98,
+        "normalized_specificity": 1,
+        "stable_id": "question_779f562a6ed546f9"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_df5652286f3441f3",
+      "selected_version_id": "qv_b39ed2d5fd53436e",
+      "winning_reason": {
+        "priority": 98,
+        "normalized_specificity": 1,
+        "stable_id": "question_779f562a6ed546f9"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_ec3c46f30c7e4948",
+      "selected_version_id": "qv_b39ed2d5fd53436e",
+      "winning_reason": {
+        "priority": 98,
+        "normalized_specificity": 1,
+        "stable_id": "question_779f562a6ed546f9"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_65f7faa5b62c4550",
+      "selected_version_id": "qv_ad09ae84f2854958",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_eb32b40c5e1144a1"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_f9cc84c93b8c4c4c",
+      "selected_version_id": "qv_149abd1aa116443e",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_8f915171151548c9"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_db4f6b8331274275",
+      "selected_version_id": "qv_9041ec0bd2c74cf5",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_42508bba96644a16"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_f3df5a7fb4ac41f1",
+      "selected_version_id": "qv_b378e19804bb46d6",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_d6031125d72641c7"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_76d61cb965c346a6",
+      "selected_version_id": "qv_064a4033c4654573",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_7c506ad50aec46cc"
+      },
+      "fallback": false
+    },
+    {
+      "scenario_version_id": "sv_6bbaadec621341af",
+      "selected_version_id": "qv_40843a039d27421d",
+      "winning_reason": {
+        "priority": 50,
+        "normalized_specificity": 1,
+        "stable_id": "question_ca8bf568d63f4f13"
+      },
+      "fallback": false
+    }
+  ],
+  "selection_errors": [],
+  "development_cases": 36,
+  "unused": [
+    {
+      "version_id": "qv_1aa4fdd9e6a241a6",
+      "eligible_cases": 1,
+      "reason": "Applicable but another priority/specificity/stable ID selection won"
+    },
+    {
+      "version_id": "qv_21ce435d54de43a7",
+      "eligible_cases": 0,
+      "reason": "No applicable selected development cases"
+    },
+    {
+      "version_id": "qv_2528dd8c4a514a67",
+      "eligible_cases": 1,
+      "reason": "Applicable but another priority/specificity/stable ID selection won"
+    },
+    {
+      "version_id": "qv_646f5dcd77f3460a",
+      "eligible_cases": 0,
+      "reason": "No applicable selected development cases"
+    },
+    {
+      "version_id": "qv_3f1950eecbbb4720",
+      "eligible_cases": 1,
+      "reason": "Applicable but another priority/specificity/stable ID selection won"
+    },
+    {
+      "version_id": "qv_85d230d05a134fc1",
+      "eligible_cases": 1,
+      "reason": "Applicable but another priority/specificity/stable ID selection won"
+    },
+    {
+      "version_id": "qv_1169c7d48d7444cc",
+      "eligible_cases": 1,
+      "reason": "Applicable but another priority/specificity/stable ID selection won"
+    },
+    {
+      "version_id": "qv_029c1bef85134ace",
+      "eligible_cases": 1,
+      "reason": "Applicable but another priority/specificity/stable ID selection won"
+    },
+    {
+      "version_id": "qv_285c8236a61645b0",
+      "eligible_cases": 1,
+      "reason": "Applicable but another priority/specificity/stable ID selection won"
+    },
+    {
+      "version_id": "qv_969bf83e885f4b31",
+      "eligible_cases": 0,
+      "reason": "No applicable selected development cases"
+    },
+    {
+      "version_id": "qv_700fa2cab66047a2",
+      "eligible_cases": 0,
+      "reason": "No applicable selected development cases"
+    },
+    {
+      "version_id": "qv_2f1cb05aedf54681",
+      "eligible_cases": 6,
+      "reason": "Applicable but another priority/specificity/stable ID selection won"
+    },
+    {
+      "version_id": "qv_3947d77199ae4090",
+      "eligible_cases": 24,
+      "reason": "Applicable but another priority/specificity/stable ID selection won"
+    },
+    {
+      "version_id": "qv_7ae01ddd2a6a4f70",
+      "eligible_cases": 36,
+      "reason": "Applicable but another priority/specificity/stable ID selection won"
+    }
+  ],
+  "limitations": "No arbitrary semantic contradiction detection or proof of educational suitability. Frequencies depend on this development snapshot; unused questions are not automatically bad."
+}

@@ -1,0 +1,10 @@
+{
+  "backend_tests_passed": 203,
+  "browser_tests_passed": 3,
+  "frontend_build_passed": true,
+  "v2_exact_reproduction": true,
+  "v3_exact_reproduction": true,
+  "old_and_new_api_exports_equal_saved_reports": true,
+  "live_semantic_ai_calls": 0,
+  "new_report_id": "script_assessment_4a5b2cbd33ad4bb7"
+}

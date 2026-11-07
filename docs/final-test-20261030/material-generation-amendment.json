@@ -1,0 +1,6 @@
+{
+  "stage": "Before snapshots, preflight and experiment outputs",
+  "reason": "The local 1B model repeatedly generated invalid applicability comparisons and saved no valid bank questions in initial attempts. Stop this material-generation job; create assistant-authored bank content through the normal API with explicit origin. Preserve failed requests. Scenario generation remains a separate attempt.",
+  "affects_metric_rules": false,
+  "affects_collection_settings": false
+}

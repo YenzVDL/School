@@ -1,0 +1,13 @@
+{
+  "database_record_hashes_unchanged": {
+    "influences": true,
+    "labels": true,
+    "snapshots": true,
+    "outputs": true,
+    "reviews": true,
+    "jobs": true
+  },
+  "original_files_unchanged": true,
+  "legacy_upgrade_report_archived_separately": true,
+  "ai_semantic_calls_during_reevaluation": 0
+}

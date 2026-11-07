@@ -1,0 +1,12 @@
+{
+  "version": "fixed-rubric-v3-method-blind",
+  "implementation_hash": "02efb554849ac9c1fbbb611465cc5fe7414771f54ec065e9503c8af3f5c23dab",
+  "rules": {
+    "format": "Mechanical punctuation, word budget, single-line interrogative form, no recognized extra response and normalized previous-question repetition. Language is separately inconclusive.",
+    "reflection_structure": "Recognizable learner-directed strategy, decision, evidence or planning patterns versus recognizable technical recall. Pattern classification is not proof of educational usefulness.",
+    "contextual_grounding": "Explicit references to supplied fields and grounded named technologies. Lexical overlap is descriptive only; absence of overlap does not imply irrelevance.",
+    "factual_grounding": "Recognized assertions about time, quantities, progress, recorded control answers and performance. Missing evidence, hypothetical alternatives and conflicting records are distinguished. Unrecognized claims require review.",
+    "agency_wording": "Listed direct coercion, ability judgments, emotion/performance premises and diagnoses. No detected wording pattern is not proof of appropriate tone."
+  },
+  "purpose": "Retrospective evaluation on original outputs; frozen before computing method aggregates"
+}
